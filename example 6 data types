@@ -1,0 +1,3 @@
+x={"name" : "Larry", "age" :23}
+print(type(x))
+dict
