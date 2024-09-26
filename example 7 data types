@@ -1,0 +1,3 @@
+x= False
+print(type(x))
+bool
